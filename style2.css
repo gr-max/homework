@@ -1,0 +1,11 @@
+#ul1{
+    color: black; /* Цвет текста */
+    font-size: 14pt;
+    font-family: inherit;
+}
+
+#ul2{
+    color: black; /* Цвет текста */
+    font-size: 14pt;
+    font-family:monospace;
+}
